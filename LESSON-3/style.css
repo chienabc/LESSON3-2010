@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+}
+.image-new .ars{
+text-align: center;
+font-size: 20px;
+font-weight: 300;
+}
+.image-new p{
+    font-size: 24px;
+}
+.border{
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+    /* border: 3px solid red; */
+    border-radius: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hanoi{
+   color:aqua; 
+}
+.tphcm{
+    color:red;
+}
+.total_hanoi{
+    text-align: center;
+}
+
+
+.phone{
+    color:blue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+.quangnam{
+    width: 1800px;
+    height: 400px;
+    /* background-color: blueviolet; */
+    background-image: url('https://d2j6dbq0eux0bg.cloudfront.net/images/66610504/2636936256.jpg');
+    background-repeat: no-repeat;
+}
+
+.background{
+    background-image: url(./assets/ars-1.png);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.background h3{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: left;
+}
+
+
+
+.background-image{
+background-image: url(./image/img-1.jpg);
+width: 100%;
+height: 650px;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+h2{
+    color:white;
+}
+h4{
+    color:white;
+}
